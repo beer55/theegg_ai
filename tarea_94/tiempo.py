@@ -1,6 +1,6 @@
 def tierra(t):
 	g = 9.8
-	tiempo =1/2*g*t^2
+	tiempo =1/2*g*float(t^2)
 	return tiempo
 	
 def marte(t):
